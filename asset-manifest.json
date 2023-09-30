@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/herta/static/css/main.0b2faeec.css",
+    "main.js": "/herta/static/js/main.5dd891a6.js",
+    "static/js/787.5480e000.chunk.js": "/herta/static/js/787.5480e000.chunk.js",
+    "index.html": "/herta/index.html",
+    "main.0b2faeec.css.map": "/herta/static/css/main.0b2faeec.css.map",
+    "main.5dd891a6.js.map": "/herta/static/js/main.5dd891a6.js.map",
+    "787.5480e000.chunk.js.map": "/herta/static/js/787.5480e000.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0b2faeec.css",
+    "static/js/main.5dd891a6.js"
+  ]
+}
