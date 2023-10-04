@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/herta/static/css/main.d244e2e2.css",
-    "main.js": "/herta/static/js/main.42c485f8.js",
+    "main.js": "/herta/static/js/main.ee074ba8.js",
     "static/js/787.5480e000.chunk.js": "/herta/static/js/787.5480e000.chunk.js",
     "static/media/character.png": "/herta/static/media/character.8aac2d01b8958625fd84.png",
     "index.html": "/herta/index.html",
     "main.d244e2e2.css.map": "/herta/static/css/main.d244e2e2.css.map",
-    "main.42c485f8.js.map": "/herta/static/js/main.42c485f8.js.map",
+    "main.ee074ba8.js.map": "/herta/static/js/main.ee074ba8.js.map",
     "787.5480e000.chunk.js.map": "/herta/static/js/787.5480e000.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d244e2e2.css",
-    "static/js/main.42c485f8.js"
+    "static/js/main.ee074ba8.js"
   ]
 }
